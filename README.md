@@ -1,4 +1,4 @@
-# todo app sample
+# todo app sample for Node.js
 http://thejackalofjavascript.com/re-architecting-a-firebase-app-in-node
 
 # to install
